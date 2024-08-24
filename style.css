@@ -278,7 +278,7 @@ section {
 
 
 
-@media (max-width:1023px){
+@media (max-width:2023px){
     header{
         padding: 12px 20px;
     }
@@ -324,18 +324,18 @@ section {
     }
 
     .main {
-        /* width: 100%;
+        width: 100%;
         min-height: 100vh;
         display: flex;
         align-items: center;
-        justify-content: space-between; */
+        justify-content: space-between; 
         background: url(images/background2.png);
-        /* background-size: cover;
+        background-size: cover;
         background-position: center;
         background-attachment: fixed;
-        color: wheat; */
+        color: wheat;
         background-repeat:no-repeat;
-        background-position: center center;
+        /* background-position: center; */
     }
 }
 
