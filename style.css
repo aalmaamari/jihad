@@ -334,6 +334,8 @@ section {
         background-position: center;
         background-attachment: fixed;
         color: wheat; */
+        background-repeat:no-repeat;
+        background-position: center center;
     }
 }
 
